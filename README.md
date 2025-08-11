@@ -56,7 +56,7 @@ As players are eliminated, new rules are introduced:
 
 ```bash
 # Navigate to the game directory
-cd C:\Users\Demartini\CascadeProjects\king_of_diamonds
+king_of_diamonds
 
 # Run the game
 python king_of_diamonds.py
