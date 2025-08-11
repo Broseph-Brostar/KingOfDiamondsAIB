@@ -55,8 +55,8 @@ As players are eliminated, new rules are introduced:
 ## Installation & Running
 
 ```bash
-# Navigate to the game directory
-king_of_diamonds
+# Navigate to the game directory (replace "folder" with the directory steps your computer needs to take to get to the king_of_diamonds directory)
+cd /folder/folder/king_of_diamonds
 
 # Run the game
 python king_of_diamonds.py
